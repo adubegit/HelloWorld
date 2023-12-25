@@ -1,1 +1,1 @@
-Hello hi Artifactory and Sonar
+Hello h Artifactory and Sonar
